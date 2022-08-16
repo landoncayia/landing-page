@@ -32,6 +32,10 @@ h1 {
   color: #ebeaea
 }
 
+.header {
+  padding: 0 10%;
+}
+
 .header p {
   font-size: 18px;
   color: #dcd5d5;
