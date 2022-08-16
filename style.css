@@ -49,3 +49,19 @@ h1 {
   font-size: 18px;
   color: #dcd5d5;
 }
+
+.header-main {
+  padding: 50px 0;
+  display: flex;
+}
+
+.header-text,
+.header-image {
+  width: 50%
+}
+
+.header-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
