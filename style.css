@@ -15,3 +15,24 @@ ul {
 a {
   text-decoration: none;
 }
+
+h1 {
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.logo {
+  color: #ebeaea;
+  font-size: 24px;
+}
+
+.header,
+.footer {
+  background-color: #4d0000;
+  color: #ebeaea
+}
+
+.header p {
+  font-size: 18px;
+  color: #dcd5d5;
+}
