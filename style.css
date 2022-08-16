@@ -10,6 +10,8 @@ ul {
   list-style: none;
   margin: 0;
   padding: 0;
+  display: flex;
+  gap: 16px;
 }
 
 a {
@@ -34,6 +36,12 @@ h1 {
 
 .header {
   padding: 0 10%;
+}
+
+.top-bar {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
 }
 
 .header p {
