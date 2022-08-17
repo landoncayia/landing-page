@@ -65,3 +65,29 @@ h1 {
   justify-content: center;
   align-items: center;
 }
+
+.body h2 {
+  margin: 30px 0;
+  text-align: center;
+}
+
+.apple-info-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 32px;
+}
+
+.apple-info {
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.apple-info img {
+  border: 2px solid #aa0000;
+  border-radius: 10px;
+}
