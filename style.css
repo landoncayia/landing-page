@@ -33,6 +33,10 @@ blockquote p {
   margin: 0;
 }
 
+button {
+  cursor: pointer;
+}
+
 .logo {
   color: #ebeaea;
   font-size: 24px;
