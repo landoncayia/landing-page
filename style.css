@@ -24,6 +24,15 @@ h1 {
   font-weight: 900;
 }
 
+figure {
+  margin: 30px 0;
+}
+
+blockquote,
+blockquote p {
+  margin: 0;
+}
+
 .logo {
   color: #ebeaea;
   font-size: 24px;
@@ -90,4 +99,25 @@ h1 {
 .apple-info img {
   border: 2px solid #aa0000;
   border-radius: 10px;
+}
+
+.testimony {
+  background-color: #e5e7eb;
+  color: #1f2937;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-size: 28px;
+  padding: 0 20%;
+}
+
+.testimony figcaption {
+  margin-top: 10px;
+}
+
+.testimony figcaption,
+.testimony cite {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: right;
 }
