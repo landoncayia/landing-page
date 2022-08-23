@@ -94,6 +94,13 @@ button {
   align-items: center;
 }
 
+.header-image img {
+  width: 400px;
+  height: 266px;
+  border-radius: 10px;
+  border: 2px groove #aa0000;
+}
+
 .body h2 {
   margin: 30px 0;
   text-align: center;
