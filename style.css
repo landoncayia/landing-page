@@ -114,7 +114,7 @@ button {
 }
 
 .apple-info {
-  width: 100px;
+  width: 200px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -123,6 +123,7 @@ button {
 }
 
 .apple-info img {
+  width: 200px;
   border: 2px solid #aa0000;
   border-radius: 10px;
 }
